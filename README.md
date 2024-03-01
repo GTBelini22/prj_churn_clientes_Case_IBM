@@ -22,7 +22,7 @@
 - Transformação de dados
 
 
-![Dashboard BI](https://github.com/GTBelini22/Regressao_linear_BaseSeguros/blob/main/assets/Histplot.png)
+![Dashboard BI](https://github.com/GTBelini22/prj_churn_clientes_Case_IBM/blob/main/assets/Verificando%20Outliers.png)
 
 # Tecnologias utilizadas / Bibliotecas
 - Pandas

@@ -12,13 +12,13 @@
 
 # Sobre o repositório
 
-É um repositório usado para armazenar o Desafio de  **Limpeza de Dados - Data Cleaning** da formação em dados da escola DNC, com esse desafio sendo a preperação de dos dados para uma analise futura, disponibilizado pela equipe da [DNC](https://www.escoladnc.com.br/ "Site da DNC")
+É um repositório usado para armazenar o Desafio de  **Limpeza de Dados - Data Cleaning** da formação em dados da escola DNC, com esse desafio sendo a preperação dos dados para uma analise futura, disponibilizado pela equipe da [DNC](https://www.escoladnc.com.br/ "Site da DNC")
 
 # Métodos e tipos de problemas resolvidos
 - Outliers
-- escala de dados (StandardScaler)
+- Escala de dados (StandardScaler)
 - Dados Nulos
-- remoção de colunas indesejadas
+- Remoção de colunas indesejadas
 - Transformação de dados
 
 
